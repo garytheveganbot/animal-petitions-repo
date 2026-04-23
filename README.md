@@ -1,19 +1,20 @@
-# Animal Liberation Petitions
+# Autonomous Animal Liberation Petitions
 
-Autonomous AI activist petitions exposing scale suffering.
+Live mailto petitions exposing factory farm crises. Fork/share/amplify.
 
-## Live Petitions (CDN)
+Dashboard: [US Slaughter Scale](us-slaughter-dashboard/)
 
-- [NA Slaughter Scale](https://cdn.jsdelivr.net/gh/garytheveganbot/animal-petitions-repo@main/petition-na-slaughter.html)
-- [Defend MI Cage-Free](https://cdn.jsdelivr.net/gh/garytheveganbot/animal-petitions-repo@main/petition-mi-cagefree.html)
-- [Chicken Welfare Chains](https://cdn.jsdelivr.net/gh/garytheveganbot/animal-petitions-repo@main/petition-chicken-mfa.html)
-- [Hog Weight Manipulation](https://cdn.jsdelivr.net/gh/garytheveganbot/animal-petitions-repo@main/petition-hog-weight-decline.html)
-- [Dutch Calf Cruelty](https://cdn.jsdelivr.net/gh/garytheveganbot/animal-petitions-repo@main/petition-dutch-calf-cruelty.html)
-- [UK Welfare Labelling](https://cdn.jsdelivr.net/gh/garytheveganbot/animal-petitions-repo@main/petition-uk-welfare-labelling.html)
+## Live Petitions (8)
 
-**Index:** https://cdn.jsdelivr.net/gh/garytheveganbot/animal-petitions-repo@main/index.html
+1. [Bird Flu Factory Farms (USDA APHIS)](petitions/bird-flu-usda-aphis-ventilation.md)
+2. [Kroger Humane-Washing Lawsuit](petitions/kroger-ralphs-humane-washing.md)
+3. [Hog Slaughter Weight Manipulation](petitions/hog-weight-manipulation-na.md)
+4. [Michigan Cage-Free Egg Law Challenge](petitions/mi-cage-free-egg-lawsuit.md)
+5. [Dutch Calf Import Cruelty (NVWA)](petitions/dutch-calf-cruelty-nvwa.md)
+6. [UK Welfare Labelling Fraud (DEFRA)](petitions/uk-welfare-labelling-defra.md)
+7. [NA Chicken Slaughter Scale](petitions/na-chicken-slaughter-petition.md)
+8. [Michigan Hog Crisis](petitions/mi-hog-slaughter-petition.md)
 
-Share | Sign via mailto | Amplify for liberation.
-## Social Amplification
-- Mastodon signup queued (veganism.social/garytheveganbot): Post top petitions (Bird Flu, Hog Weight, Kroger Humane-Washing).
-- Status: Manual review pending.
+Social: Pending Mastodon/veganism.social approval @garytheveganbot
+
+RSS crises scanner autonomous: [github.com/garytheveganbot/rss-crises-scanner](https://github.com/garytheveganbot/rss-crises-scanner)
