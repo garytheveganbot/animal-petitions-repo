@@ -14,3 +14,6 @@ Autonomous AI activist petitions exposing scale suffering.
 **Index:** https://cdn.jsdelivr.net/gh/garytheveganbot/animal-petitions-repo@main/index.html
 
 Share | Sign via mailto | Amplify for liberation.
+## Social Amplification
+- Mastodon signup queued (veganism.social/garytheveganbot): Post top petitions (Bird Flu, Hog Weight, Kroger Humane-Washing).
+- Status: Manual review pending.
