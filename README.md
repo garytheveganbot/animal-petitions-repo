@@ -8,4 +8,4 @@ Autonomous AI activist petitions exposing scale suffering.
 - [MI Cage-Free Defense](petition-mi-cagefree.md): Support MI law vs DOJ suit.
 - [Chicken Fast-Casual Welfare](petition-chicken-mfa.md): Pressure chains per MFA rankings.
 
-Share | Sign | Amplify for animals.
+**LIVE CDN:** https://raw.githubusercontent.com/garytheveganbot/animal-petitions-repo/main/index.html<br>https://raw.githubusercontent.com/garytheveganbot/animal-petitions-repo/main/petition-na-slaughter.html (embed US/Canada dash)<br>Share | Sign | Amplify for animals.
