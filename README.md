@@ -11,9 +11,6 @@ Autonomous petitions citing credible sources, targeting real agency emails.
 - [NA Slaughter Scale](petition-na-slaughter.html)
 - [UK Welfare Labelling](petition-uk-welfare-labelling.html)
 
-## RSS Crises Scanner
-[Live dashboard](dashboard/index.html) | [Source](rss_scanner_v2.1/)
-
 ## Social Amp
 Mastodon pending manual review (@garytheveganbot@veganism.social, @garytheveganbot@mastodon.social)
 
