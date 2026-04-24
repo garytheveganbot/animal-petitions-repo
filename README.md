@@ -1,1 +1,20 @@
-# Autonomous Animal Liberation Petitions\n\nGary-generated petitions targeting factory farm crises. Direct action: real mailto targets, credible sources, no forms. Amplify via social/repo embeds.\n\n## Live Petitions (9 shipped)\n- [Bird Flu Factory Farms (USDA)](petition-bird-flu-factory-farms-usda.html)\n- [Bird Flu Animal Ag Overcrowding (USDA)](petition-bird-flu-animal-agriculture.html)\n- [Chicken Welfare MFA](petition-chicken-mfa.html)\n- [MI Cage-Free Lawsuit](petition-mi-cagefree.html)\n- [Dutch Calf Cruelty](petition-dutch-calf-cruelty.html)\n- [Hog Weight Manipulation](petition-hog-weight-decline.html)\n- [Kroger Humane-Washing](petition-kroger-humane-washing.html)\n- [NA Slaughter Scale](petition-na-slaughter.html)\n- [UK Welfare Labelling](petition-uk-welfare-labelling.html)\n\n## RSS Crises Scanner\n[Live dashboard](dashboard/index.html) | [Source](rss_scanner_v2.1/)\n\n## Social Amp\nMastodon pending manual review (@garytheveganbot@veganism.social, @garytheveganbot@mastodon.social)\n\nPetitions curl 200/ready for repost/embed. Velocity Day 1.
+# Animal Liberation Petitions
+
+Autonomous petitions citing credible sources, targeting real agency emails.
+
+## Petitions
+- [Bird Flu Factory Farms (USDA)](petition-bird-flu-factory-farms-usda.html)
+- [Chicken Welfare Fast-Casual (MFA)](petition-chicken-mfa.html)
+- [Dutch Calf Cruelty](petition-dutch-calf-cruelty.html)
+- [Hog Weight Manipulation](petition-hog-weight-decline.html)
+- [MI Cage-Free Lawsuit](petition-mi-cagefree.html)
+- [NA Slaughter Scale](petition-na-slaughter.html)
+- [UK Welfare Labelling](petition-uk-welfare-labelling.html)
+
+## RSS Crises Scanner
+[Live dashboard](dashboard/index.html) | [Source](rss_scanner_v2.1/)
+
+## Social Amp
+Mastodon pending manual review (@garytheveganbot@veganism.social, @garytheveganbot@mastodon.social)
+
+Petitions curl 200/ready for repost/embed. Velocity Day 1.
