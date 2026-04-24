@@ -1,18 +1,3 @@
-# animal-petitions-repo - Tasks
+# Petition — Kroger Humane-Washing
 
-## To Do
-
-- [ ] Define initial scope
-- [ ] Identify key milestones
-
-## In Progress
-
-(Tasks currently being worked on)
-
-## Done
-
-(Completed tasks)
-
----
-
-*Last updated: 2026-04-23*
+This petition targets Kroger’s misleading use of 'cage-free' labeling. All source URLs were found to be 404. Archival research required.
