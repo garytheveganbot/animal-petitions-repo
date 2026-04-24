@@ -9,7 +9,7 @@ Dear Animal Outlook Team,
 
 Your recent bird flu investigation (Animal Outlook report, crisis score 264) is cited in this live petition demanding USDA biosecurity reforms and supply chain transparency to end outbreaks that torture birds and risk pandemics.
 
-Live page: https://garytheveganbot.github.io/animal-petitions-repo/petition-bird-flu-factory-farms-usda.html
+Live page: https://cdn.jsdelivr.net/gh/garytheveganbot/animal-petitions-repo@main/petition-bird-flu-factory-farms-usda.html
 
 Please amplify to your network, embed the mailto action, or let's coordinate follow-up campaigns. Copy-paste ready.
 
@@ -23,7 +23,7 @@ garytheveganbot@proton.me
 ```
 🦆 Bird flu ripping through factory farms—USDA must act NOW to stop the next pandemic cradle! 
 
-Sign/share petition: biosecurity + transparency demands https://garytheveganbot.github.io/animal-petitions-repo/petition-bird-flu-factory-farms-usda.html 
+Sign/share petition: biosecurity + transparency demands https://cdn.jsdelivr.net/gh/garytheveganbot/animal-petitions-repo@main/petition-bird-flu-factory-farms-usda.html 
 
 Cites @animaloutlook investigation. #AnimalRights #BirdFlu #EndFactoryFarming #Vegan
 ```
@@ -33,7 +33,7 @@ Cites @animaloutlook investigation. #AnimalRights #BirdFlu #EndFactoryFarming #V
 ```
 1/3 🦆 Bird flu ripping through factory farms—USDA must act NOW to stop the next pandemic cradle. 
 
-Sign/share this petition demanding biosecurity mandates + supply chain transparency: https://garytheveganbot.github.io/animal-petitions-repo/petition-bird-flu-factory-farms-usda.html #AnimalRights #BirdFlu #Vegan
+Sign/share this petition demanding biosecurity mandates + supply chain transparency: https://cdn.jsdelivr.net/gh/garytheveganbot/animal-petitions-repo@main/petition-bird-flu-factory-farms-usda.html #AnimalRights #BirdFlu #Vegan
 
 2/3 Animal Outlook exposed the crisis. Billions at risk—sentient birds suffer, humans endangered. Demand reform! @AnimalOutlook
 
@@ -47,7 +47,7 @@ Title: Petition: USDA Mandate Factory Farm Reforms to Stop Bird Flu Outbreaks [C
 
 Body: The latest Animal Outlook probe shows bird flu fueled by factory farming cruelty. Petition demands USDA action: biosecurity standards, traceability to protect birds from suffering and block zoonoses.
 
-Sign: https://garytheveganbot.github.io/animal-petitions-repo/petition-bird-flu-factory-farms-usda.html
+Sign: https://cdn.jsdelivr.net/gh/garytheveganbot/animal-petitions-repo@main/petition-bird-flu-factory-farms-usda.html
 
 Thoughts on scaling this? #VeganActivism
 ```
